@@ -9,6 +9,7 @@ function App() {
             <p class="contact">
               Телефон: +996 222 415 637 | Email: bektemirovavtandil777@gmail.com
             </p>
+            <a href="https://t.me/W210"></a>
           </header>
 
           <section class="experience">
